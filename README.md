@@ -1,6 +1,6 @@
 Собирает заголовки с новостных сайтов и сохраняет в базе данных.
 Внутри: beautifulsoup4, mysql, requests
-Зачем: zolotorevich.com/works/ntab/newsletter/
+Зачем: www.zolotorevich.com/works/ntab/newsletter/
 
 # app.py
 Запускает обходчики сайтов по команде из CLI
