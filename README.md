@@ -1,5 +1,7 @@
 Собирает заголовки с новостных сайтов и сохраняет в базе данных.
+
 Внутри: beautifulsoup4, mysql, requests
+
 Зачем: www.zolotorevich.com/works/ntab/newsletter/
 
 # app.py
